@@ -16,7 +16,7 @@ This project aims to develop a robust and efficient 3D object detection and trac
 <img width="405" alt="objectron" src="https://user-images.githubusercontent.com/90078254/222274775-1e44c1ff-5061-457d-8b63-68a707ba22dd.png">
 
 ## MediaPipe Object Detection
-In the following parts of project, we perform a use of how MediaPipe works with our object detection resposnibilities, please check the `.ipynb` files in the index for more information.
+In the following parts of project, we perform a use of how MediaPipe works with our object detection resposnibilities, please check the `.ipynb` files under the index `Application` for more information.
 
 ### Face
 In this part we perform a face detection by Mediapipe, which is a widely used application for object detection fields. Please refer the file `Face.ipynb` for more information.
